@@ -1,0 +1,1 @@
+Creating Docker file for simple NodeJS application.
